@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/6a54187b-84a0-4761-b4b7-6d92d8f6c4ae
+**URL**: majji-durga-prasad-portfolio-360dkqwth.vercel.app
 
 ## How can I edit this code?
 
