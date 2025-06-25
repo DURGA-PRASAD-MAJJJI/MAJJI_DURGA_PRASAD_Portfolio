@@ -2,7 +2,9 @@
 
 ## Project info
 
-**URL**: majji-durga-prasad-portfolio-360dkqwth.vercel.app
+## 🔗 Live link: 
+(https://majji-durga-prasad-portfolio-360dkqwth.vercel.app)
+
 
 ## How can I edit this code?
 
