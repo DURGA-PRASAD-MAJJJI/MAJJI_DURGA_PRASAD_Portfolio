@@ -42,7 +42,7 @@ const Projects = () => {
       live: "https://sports-buddy-eab63.web.app/",
     },
 {
-  id: 3,
+  id: 4,
   title: "DormMate",
   description:
     "A full-stack MERN hostel management system for managing members, rooms, staff, and appointments with real-time updates.",
@@ -54,7 +54,7 @@ const Projects = () => {
 },
 
     {
-      id: 4,
+      id: 5,
       title: "E-commerce website",
       description:
         "A full-stack e-commerce healthcare solution built with MERN stack and integrated with Stripe for secure payments.",
@@ -66,7 +66,7 @@ const Projects = () => {
       live: "#",
     },
     {
-      id: 5,
+      id: 6,
       title: "Task Management App",
       description:
         "A real-time collaborative task management tool using React, Firebase, and Material-UI.",
@@ -78,7 +78,7 @@ const Projects = () => {
       live: "#",
     },
     {
-      id: 6,
+      id: 7,
       title: "Weather Dashboard",
       description:
         "An interactive weather forecast dashboard built with Vue.js, Chart.js, and OpenWeather API.",
@@ -90,7 +90,7 @@ const Projects = () => {
       live: "#",
     },
     {
-      id: 7,
+      id: 8,
       title: "REST API Server",
       description:
         "A robust REST API backend using Node.js, Express, PostgreSQL, JWT, and rate limiting.",
@@ -102,7 +102,7 @@ const Projects = () => {
       live: "#",
     },
     {
-      id: 8,
+      id: 9,
       title: "Portfolio Website",
       description:
         "A responsive and animated personal portfolio built with React, Tailwind CSS, and Framer Motion.",
@@ -114,7 +114,7 @@ const Projects = () => {
       live: "#",
     },
     {
-      id: 9,
+      id: 10,
       title: "Data Analytics Dashboard",
       description:
         "A dashboard for data visualization and business intelligence using Django, D3.js, and PostgreSQL.",
